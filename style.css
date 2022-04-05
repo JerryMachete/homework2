@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+}
+
+.base-bisque{
+    height: 600px;
+    background-color: bisque;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card{
+    width: 350px;
+    height: 450px;
+    background: mediumaquamarine;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.big-text{
+    font-size: 40px;
+    color: black;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.mini-text{
+    margin-right: 30px;
+    margin-left: 30px;
+
+}
+.learn{
+
+    width: 200px;
+    height: 50px;
+    background-color: gold;
+    margin-top: 50px;
+
+}
+.text-learn{
+    font-size: 20px;
+    text-align: center;
+
+}

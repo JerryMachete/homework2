@@ -1,0 +1,32 @@
+.base{
+    height: 600px;
+    background-color: bisque;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card {
+    width: 350px;
+    height: 450px;
+    background: mediumaquamarine;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.learn{
+    width: 100px;
+    height: 50px;
+    margin-top: 100px;
+    background-color: gold;
+
+}
+.text-learn{
+    text-align: center;
+}
+
+.fa-solid{
+    font-size: 40px;
+}
