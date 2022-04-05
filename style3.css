@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+
+}
+.blue{
+    height: 420px;
+    width: 700px;
+    background-color: #2cb7e7;
+    display: flex;
+
+}
+.block{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.card{
+    width: 300px;
+    height: 110px;
+    background: floralwhite;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+
+}
+.fa-ghost{
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: gray;
+
+}
+.description{
+    width: 220px;
+}
+.title{
+    font-size: 20px;
+    font-family: Candara,serif;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+    color: gold;
+    margin-top: 10px;
+}
+.text{
+    color: gray;
+    font-size: 14px;
+
+}
